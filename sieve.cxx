@@ -1,5 +1,6 @@
 #include <iostream>
 
+/* Finas all prime numbers up to and including N */
 int main() 
 {
     const int N = 37;
